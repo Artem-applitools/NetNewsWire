@@ -1,0 +1,184 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "NetNewsWire",
+	"icon": "https://micro.blog/NetNewsWire/avatar.jpg",
+	"home_page_url": "https://nnw.ranchero.com/",
+	"feed_url": "https://nnw.ranchero.com/feed.json",
+	"items": [
+			{
+				"id": "http://NetNewsWire.micro.blog/2022/04/16/netnewswire-for-mac.html",
+				"title": "NetNewsWire 6.1 for Mac: New Article Themes Feature",
+				"content_html": "\n\n<p>Last week we released NetNewsWire 6.1 for Mac with a big new feature: themes for articles.</p>\n\n<p>This is one of those features from <a href=\"https://netnewswire.com/history\">NetNewsWire of Yore</a> that we’re bringing back — it’s pretty fun, which is reason enough, but for some people it’s also an accessibility issue, and that’s a compelling reason. It’s an accessibility issue because a person can create or customize a theme with the fonts, sizes, colors, and layout that makes reading easiest for them.</p>\n\n<p>To get more of an idea of what these themes are, check out Hans Schülein’s <a href=\"https://nnw-themes.xyz/\">unofficial NetNewsWire Themes Directory</a>, which shows the built-in themes plus some themes built by NetNewsWire users.</p>\n\n<p>If you already use NetNewsWire, just do a Check for Updates. Or you can <a href=\"https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-6.1/NetNewsWire6.1.zip\">download NetNewsWire 6.1</a> and give it a go. (It’s free and open source — there’s no trial period or commitment or anything. Just use it if you like it.)</p>\n\n<h4 id=\"other-changes-since-netnewswire-6-0-3\">Other changes since NetNewsWire 6.0.3</h4>\n\n<ul>\n<li>Copy URLs using repaired, rather than raw, feed links</li>\n<li>Restore article scroll position on relaunching app</li>\n<li>Added Copy Article URL and Copy External URL commands to the Edit menu</li>\n<li>Fixed a bug where using cmd-Q wouldn’t always quit the app as quickly as one might prefer</li>\n<li>Disallow creation of iCloud account in the app if iCloud and iCloud Drive aren’t both enabled</li>\n<li>Fixed bug showing quote tweets that only included an image</li>\n<li>Added a hidden pref to suppress downloading/syncing on start: <code>defaults write com.ranchero.NetNewsWire-Evergreen DevroeSuppressSyncOnLaunch -bool true</code></li>\n<li>Video autoplay is now disallowed</li>\n<li>Article view now supports RTL layout</li>\n<li>Fixed a few font and sizing issues</li>\n</ul>\n\n<h4 id=\"ios-note\">iOS Note</h4>\n\n<p>We’re working on NetNewsWire 6.1 for iOS, which will also include the themes feature. It’s in TestFlight now, and we have a few bugs still to fix. Once it’s released you’ll be able to use themes in iOS, which is a feature even NetNewsWire of Yore never had. 🐣🐥</p>\n",
+				"date_published": "2022-04-16T10:04:21-07:00",
+				"url": "https://nnw.ranchero.com/2022/04/16/netnewswire-for-mac.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2022/03/26/false-alarm-no.html",
+				"title": "False Alarm, No Syncing Issue",
+				"content_html": "<p>We apologize for the <a href=\"https://nnw.ranchero.com/2022/03/26/netnewswire-syncing-issue.html\">blog post earlier today</a> about a syncing issue.</p>\n\n<p>This was a false alarm due to corrupted test data — there is no syncing problem. macOS 12.3 and SQLite changes aren’t implicated in anything, because there’s no problem.</p>\n\n<p>We are still planning to release NetNewsWire 6.1 for Mac pretty soon, but not today.</p>\n",
+				"date_published": "2022-03-26T14:32:20-07:00",
+				"url": "https://nnw.ranchero.com/2022/03/26/false-alarm-no.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2022/03/26/netnewswire-syncing-issue.html",
+				"title": "False Alarm! (was NetNewsWire Syncing Issue on macOS 12.3, Fix Coming Soon)",
+				"content_html": "<p>Update 2:30 pm Pacific: the below turns out to have been a false alarm, due to an error with test data, and not a syncing problem. The below is incorrect, even the parts about macOS 12.3 and SQLite.</p>\n\n<hr />\n\n<p>A change to SQLite in macOS 12.3 breaks syncing of read/unread and starred statuses. This affects all syncing accounts — it affects iCloud and online services such as Feedbin and Feedly.</p>\n\n<p>We have a fix for it — a one-line fix — and we will be releasing NetNewsWire 6.1 for Mac as soon as possible (hopefully today) with that fix.</p>\n\n<p>This bug does not appear in iOS at this writing. However, we will be adding this fix to the iOS version too.</p>\n",
+				"date_published": "2022-03-26T11:51:00-07:00",
+				"url": "https://nnw.ranchero.com/2022/03/26/netnewswire-syncing-issue.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2022/02/27/netnewswire-b-for.html",
+				"title": "NetNewsWire 6.1b4 for Mac",
+				"content_html": "<p>Check for updates (be sure your prefs are set for test builds). Or  <a href=\"https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-6.1b4/NetNewsWire6.1b4.zip\">download the latest build</a>.</p>\n\n<p>We expect this to be the last beta before shipping NetNewsWire 6.1 for Mac and starting up TestFlight betas for NetNewsWire 6.1 for iOS.</p>\n\n<p>Changes since 6.1b3:</p>\n\n<ul>\n<li>Fixed a few font and sizing issues</li>\n</ul>\n",
+				"date_published": "2022-02-27T23:26:05-07:00",
+				"url": "https://nnw.ranchero.com/2022/02/27/netnewswire-b-for.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2022/02/10/netnewswire-b-for.html",
+				"title": "NetNewsWire 6.1b3 for Mac",
+				"content_html": "<p>Check for updates (be sure your prefs are set for test builds). Or  <a href=\"https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-6.1b3/NetNewsWire6.1b3.zip\">download the latest build</a>.</p>\n\n<p>Changes since 6.1b2:</p>\n\n<ul>\n<li>Two new themes: Hyperlegible and NewsFax</li>\n<li>Change in how built-in themes work: they’re part of the app bundle and they’re not copied into the Themes folder. When a built-in theme changes in a new app release, anyone using that new version gets the changes to the built-in theme</li>\n</ul>\n",
+				"date_published": "2022-02-10T22:45:46-07:00",
+				"url": "https://nnw.ranchero.com/2022/02/10/netnewswire-b-for.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2022/01/17/netnewswire-b-for.html",
+				"title": "NetNewsWire 6.1b2 for Mac",
+				"content_html": "<p>Check for updates (be sure your prefs are set for test builds). Or  <a href=\"https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-6.1b2/NetNewsWire6.1b2.zip\">download the latest build</a>.</p>\n\n<p>Changes since 6.0.3:</p>\n\n<ul>\n<li>Article themes. Several themes ship with the app, and you can create your own. You can change the theme in Preferences or by adding the theme switcher to the toolbar</li>\n<li>Copy URLs using repaired, rather than raw, feed links</li>\n<li>Restore article scroll position on relaunching app</li>\n<li>Added Copy Article URL and Copy External URL commands to the Edit menu</li>\n<li>Fixed a bug where using cmd-Q wouldn’t always quit the app as quickly as one might prefer</li>\n<li>Disallow creation of iCloud account in the app if iCloud and iCloud Drive aren’t both enabled</li>\n<li>Fixed bug showing quote tweets that only included an image</li>\n<li>Added a hidden pref to suppress downloading/syncing on start: <code>defaults write com.ranchero.NetNewsWire-Evergreen DevroeSuppressSyncOnLaunch -bool true</code></li>\n<li>Video autoplay is now disallowed</li>\n<li>Article view now supports RTL layout</li>\n</ul>\n\n<p>The big new feature coming in NetNewsWire 6.1 is article themes. That feature was a big deal in the days of NetNewsWire of Yore, and we’re psyched to be bringing it back.</p>\n\n<p>The best part about article themes is that you can make your own! They’re HTML and CSS.</p>\n\n<p>(The article themes feature will also be in the iOS app. We’ll have a TestFlight beta for that soon-ish, we hope.)</p>\n",
+				"date_published": "2022-01-17T19:01:55-07:00",
+				"url": "https://nnw.ranchero.com/2022/01/17/netnewswire-b-for.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/12/28/on-not-being.html",
+				"title": "On Not Being the Free Alternative",
+				"content_html": "<p>NetNewsWire is free and open source, but it’s not the free alternative to apps such as <a href=\"https://reederapp.com/\">Reeder</a> and <a href=\"https://www.goldenhillsoftware.com/unread/\">Unread</a>.</p>\n\n<p>In other words, it’s not the job of NetNewsWire to implement every feature of for-pay RSS readers just so that there’s a free version of those features. The opposite is true — if a feature exists in another RSS reader, that’s a pretty good reason <em>not</em> to do that feature.</p>\n\n<p>We realize that free and open source apps often do have the mission of mimicking the features of some one or several commercial apps, as if they’re Prometheus bringing features to the common computer user — but that is not our mission.</p>\n\n<p>Our mission is to make the best RSS reader that we like making. We value stability, high performance, clarity, and lots of figurative air and space rather than a mélange of features.</p>\n\n<p>It’s free because we want to make sure a great, free RSS reader is available to everyone with a Mac, iPhone, or iPad.</p>\n\n<p>But sometimes — often, even — we’re not going to do a feature that you liked in another app. We’re picky and careful about adding features.</p>\n\n<p>And we’re glad those other apps exists — because, among other things, it means those features have already been done and we don’t have to do them!</p>\n",
+				"date_published": "2021-12-28T15:25:58-07:00",
+				"url": "https://nnw.ranchero.com/2021/12/28/on-not-being.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/09/13/testflight-reminder.html",
+				"title": "TestFlight Reminder",
+				"content_html": "<p>Reminder — we post TestFlight betas for NetNewsWire for iOS. You can <a href=\"https://netnewswire.com/test-ios\">sign up here</a>.</p>\n\n<p>Our current TestFlight build fixes — we think and hope — a crash on launch that can happen on iPads in landscape orientation.</p>\n",
+				"date_published": "2021-09-13T11:15:20-07:00",
+				"url": "https://nnw.ranchero.com/2021/09/13/testflight-reminder.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/09/12/netnewswire-for-ios.html",
+				"title": "NetNewsWire 6.0.1 for iOS",
+				"content_html": "\n\n<p>NetNewsWire 6.0.1 for iOS is <a href=\"https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210\">now available on the App Store</a>.</p>\n\n<h4 id=\"changes-since-6-0\">Changes since 6.0</h4>\n\n<ul>\n<li>Fixed bug where BazQux-synced feeds might stop updating</li>\n<li>Fixed bug where words prepended with $ wouldn’t appear in Twitter feeds</li>\n<li>Fixed bug where newlines would be just a space in Twitter feeds</li>\n<li>Fixed a crashing bug in Twitter rendering</li>\n<li>Fixed bug where hitting b key to open in browser wouldn’t always work</li>\n<li>Fixed a crashing bug due to running code off the main thread that needed to be on the main thread</li>\n<li>Fixed bug where article unread indicator could have wrong alpha in specific circumstances</li>\n<li>Fixed bug using right arrow key to move focus to Article view</li>\n<li>Fixed bug where long press could trigger a crash</li>\n<li>Fixed bug where external URLs in Feedbin feeds might be lost</li>\n<li>Fixed bug where favicons wouldn’t be found when a home page URL has non-ASCII characters</li>\n<li>Fixed bug where iCloud syncing could stop prematurely when the sync database has records not in the local database</li>\n<li>Fixed bug where creating a new folder in iCloud and moving feeds to it wouldn’t sync correctly</li>\n</ul>\n",
+				"date_published": "2021-09-12T15:00:01-07:00",
+				"url": "https://nnw.ranchero.com/2021/09/12/netnewswire-for-ios.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/09/07/netnewswire-for-mac.html",
+				"title": "NetNewsWire 6.0.3 for Mac",
+				"content_html": "\n\n<p>Check for updates or <a href=\"https://netnewswire.com/NetNewsWire.zip\">download the latest</a>. 🐣</p>\n\n<h4 id=\"changes-since-6-0-2\">Changes since 6.0.2</h4>\n\n<ul>\n<li>Feedly: preserve custom feed names with Feedly when moving them between folders</li>\n<li>Fixed bug where external URLs in Feedbin feeds might be lost</li>\n<li>Feedly: handle API change with deleting and don’t show a spurious error</li>\n<li>NewsBlur: don’t fetch articles marked hidden by NewsBlur</li>\n<li>FreshRSS: add API endpoint URL example in setup form</li>\n<li>iCloud: fixed bug not retaining feeds in a folder where the folder hasn’t been synced yet</li>\n<li>Fixed bug where iCloud syncing could stop prematurely when the sync database has records not in the local database</li>\n<li>Preferences: use full-width row style in accounts and extensions panes</li>\n<li>Fixed a crashing bug triggered by running some UI code outside of main thread</li>\n<li>Fixed a crashing bug that could happen when the app tries to find a feed for a website</li>\n<li>Fixed a crashing bug that could happen when rendering tweets</li>\n<li>Twitter extension: fixed weird bug where an extra https:/ could appear in tweet text</li>\n<li>Changed how images are placed in Twitter articles so that you can better see who Tweeted the image</li>\n<li>Fixed bug where words prepended with $ wouldn’t appear in Twitter feeds</li>\n<li>Fixed bug where newlines would be just a space in Twitter feeds</li>\n<li>Fixed bug where BazQux-synced feeds might stop updating</li>\n<li>Fixed bug where favicons wouldn’t be found when a home page URL has non-ASCII characters</li>\n<li>Feeds list: smart feeds remain visible despite Hide Read Feeds setting</li>\n<li>Keyboard shortcuts: fixed regression where L key wouldn’t go to next unread when feed is all read</li>\n</ul>\n",
+				"date_published": "2021-09-07T13:21:26-07:00",
+				"url": "https://nnw.ranchero.com/2021/09/07/netnewswire-for-mac.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/06/22/netnewswire-for-ios.html",
+				"title": "NetNewsWire 6 for iOS: iCloud Sync, Widgets, and More",
+				"content_html": "<p>NetNewsWire 6 for iOS is <a href=\"https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210\">now available on the App Store</a>!</p>\n\n<p>This release brings new features — iCloud sync; sync with BazQux, Inoreader, NewsBlur, The Old Reader, and FreshRSS; home screen widgets; special support for Twitter and Reddit feeds; and more.</p>\n\n<p>And it fixes bugs — and it’s <em>faster</em>. (We love apps that go fast!)</p>\n\n<p>It’s free. It’s open source. We hope you love it! 🎉</p>\n",
+				"date_published": "2021-06-22T11:30:23-07:00",
+				"url": "https://nnw.ranchero.com/2021/06/22/netnewswire-for-ios.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/04/20/netnewswire-fixes-l.html",
+				"title": "NetNewsWire 6.0.2 for Mac: Fixes L Key, Calls Inoreader Less Often",
+				"content_html": "<p>The latest release fixes a regression with the L shortcut, and it calls Inoreader way less often (so we don’t go over the API rate limits). 🎩</p>\n\n<p>Check for updates or <a href=\"https://netnewswire.com/NetNewsWire.zip\">download the latest</a>.</p>\n",
+				"date_published": "2021-04-20T17:49:05-07:00",
+				"url": "https://nnw.ranchero.com/2021/04/20/netnewswire-fixes-l.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/04/11/how-to-help.html",
+				"title": "How to Help Test NetNewsWire 6 for iOS Via TestFlight",
+				"content_html": "<p>If you’d like to help test NetNewsWire, you can! You’ll need to sign up for TestFlight — <a href=\"https://netnewswire.com/test-ios\">please see our page on testing</a>.</p>\n\n<p>If you had already signed up for NetNewsWire 5 testing, you’ll need to sign up again. We were getting close to the maximum number of testers, so we figured the fair thing was to remove that group and start fresh.</p>\n\n<p>Please also note that this <em>really is a test version</em>. We know it has bugs. For instance, we’ve already found that adding the Twitter extension may not work for everyone. We’re sure there are other bugs, too — they could even be crashing bugs or data loss bugs.</p>\n\n<p>PS Don’t bother reporting the Twitter bug! But please do report other bugs. :)</p>\n",
+				"date_published": "2021-04-11T12:32:14-07:00",
+				"url": "https://nnw.ranchero.com/2021/04/11/how-to-help.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/04/10/testflight-build-waiting.html",
+				"title": "TestFlight Build Waiting for Review",
+				"content_html": "<p>NetNewsWire 6 for iOS is waiting for review — once it gets through, then we’ll start TestFlight builds. There will be a new public link to sign up, and we’ll announce it here.</p>\n\n<p>(If you signed up via the public link for NetNewsWire 5, you’ll need to do it again. We were too close to filling up all our slots, and it seemed like the fair thing was to start fresh.)</p>\n\n<p>Anyway… review will take some time, and it’s always possible there could be an issue. But, if no issue, then a TestFlight build seems likely in a few days. 🐣🐥🕶</p>\n",
+				"date_published": "2021-04-10T14:35:49-07:00",
+				"url": "https://nnw.ranchero.com/2021/04/10/testflight-build-waiting.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/04/01/netnewswire-for-mac.html",
+				"title": "NetNewsWire 6.0.1 for Mac",
+				"content_html": "\n\n<p>Check for updates or <a href=\"https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-6.0.1/NetNewsWire6.0.1.zip\">download the latest build</a>.</p>\n\n<p>Changes since 6.0:</p>\n\n<ul>\n<li>Twitter: fixed a date parsing bug that could affect people in some locales, which would prevent Twitter feeds from working for them</li>\n<li>Preferences: adjusted layout of the add account sheet so that it fits on smaller monitors</li>\n<li>Feeds list: properly scale the smart feed icons when sidebar is set to large size in System Preferences</li>\n<li>Feeds list: fixed bug where newly added feed would be called Untitled past the time when the app actually knows its name</li>\n<li>Timeline: fixed bug where next-unread command wouldn’t wrap around when you got to the bottom of the Feeds list</li>\n<li>Timeline: fixed bug updating article display when an article with the same article ID appears more than once (which can happen when a person has multiple accounts)</li>\n<li>iCloud: won’t add feeds that aren’t parseable, which fixes an error upon trying to rename one of these feeds</li>\n<li>Feedbin: fixed a bug with read/unread status syncing</li>\n</ul>\n\n<h4 id=\"note-about-ios\">Note about iOS</h4>\n\n<p>Yes, we’re working on the iOS app. We wanted to get these quick-but-important fixes out right away, though.</p>\n\n<p>We’ll announce a TestFlight beta for iOS on this blog once it’s ready.</p>\n",
+				"date_published": "2021-04-01T20:32:58-07:00",
+				"url": "https://nnw.ranchero.com/2021/04/01/netnewswire-for-mac.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/03/29/netnewswire-b-for.html",
+				"title": "NetNewsWire 6.0.1b2 for Mac",
+				"content_html": "<p>Check for updates (be sure your prefs are set for test builds). Or  <a href=\"https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-6.0.1b2/NetNewsWire6.0.1b2.zip\">download the latest build</a>.</p>\n\n<p>Changes since 6.0.1b1:</p>\n\n<ul>\n<li>Twitter: fixed a date parsing bug that could affect people in some locales, which would prevent Twitter feeds from working for them</li>\n<li>Feeds list: fixed bug where newly added feed would be called Untitled past the time when the app actually knows its name</li>\n<li>Fixed bug where next-unread command wouldn’t wrap around when you got to the bottom of the Feeds list</li>\n</ul>\n",
+				"date_published": "2021-03-29T21:01:25-07:00",
+				"url": "https://nnw.ranchero.com/2021/03/29/netnewswire-b-for.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/03/28/netnewswire-b-for.html",
+				"title": "NetNewsWire 6.0.1b1 for Mac",
+				"content_html": "<p>Check for updates (be sure your prefs are set for test builds). Or  <a href=\"https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-6.0.1b1/NetNewsWire6.0.1b1.zip\">download the latest build</a>.</p>\n\n<p>Changes since 6.0:</p>\n\n<ul>\n<li>Timeline: fix bug updating article display when an article with the same article ID appears more than once (which can happen when a person has multiple accounts)</li>\n<li>iCloud: won’t add feeds that aren’t parseable, which fixes an error upon trying to rename one of these feeds</li>\n<li>Feedbin: fixed a bug with read/unread status syncing</li>\n</ul>\n",
+				"date_published": "2021-03-28T15:35:07-07:00",
+				"url": "https://nnw.ranchero.com/2021/03/28/netnewswire-b-for.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/03/27/feedly-currently-down.html",
+				"title": "Feedly Currently Down for Maintenance",
+				"content_html": "<p>FYI: Feedly is currently undergoing maintenance. If you see a Feedly-related error in NetNewsWire, it’s because of that.</p>\n\n<p>See <a href=\"http://status.feedly.com/\">status.feedly.com</a> and <a href=\"https://twitter.com/feedly\">@feedly on Twitter</a> for more info and updates.</p>\n",
+				"date_published": "2021-03-27T15:41:13-07:00",
+				"url": "https://nnw.ranchero.com/2021/03/27/feedly-currently-down.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/03/27/netnewswire-for-mac.html",
+				"title": "NetNewsWire 6.0 for Mac",
+				"content_html": "\n\n<p>NetNewsWire 6.0 for Mac is a big release with a bunch of new features. You can <a href=\"https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-6.0/NetNewsWire6.0.zip\">download it here</a> — or Check for Updates if you’re already a NetNewsWire user.</p>\n\n<p>Changes since 5.1.3:</p>\n\n<ul>\n<li>Big Sur app icon</li>\n<li>Big Sur UI (when running on Big Sur)</li>\n<li>App is now sandboxed</li>\n<li>Apple Silicon native code</li>\n<li>Syncing via iCloud</li>\n<li>Syncing via BazQux, Inoreader, NewsBlur, The Old Reader, and FreshRSS</li>\n<li>Share extension, so you can send URLs to NetNewsWire</li>\n<li>Special support for <a href=\"https://netnewswire.com/help/mac/6.0/en/twitter-feeds\">Twitter</a> and <a href=\"https://netnewswire.com/help/mac/6.0/en/reddit-feeds\">Reddit</a> feeds</li>\n<li>Sidebar contextual menu commands for turning on and off Reader View and for notifications</li>\n<li>High resolution icons in the sidebar (when available)</li>\n<li>External link, when available, shows in article view</li>\n<li>Preference to change article text size</li>\n<li>Preference to set preferred browser</li>\n</ul>\n\n<p>NetNewsWire requires macOS 10.15 or newer. Runs great on Catalina; runs great on Big Sur.</p>\n\n<h4 id=\"what-about-ios\">What about iOS?</h4>\n\n<p>NetNewsWire 6 for iOS will have all the applicable features from above. Next on our to-do list is TestFlight betas — we’ll make an announcement on this blog once we’ve got this going.</p>\n",
+				"date_published": "2021-03-27T14:48:46-07:00",
+				"url": "https://nnw.ranchero.com/2021/03/27/netnewswire-for-mac.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/03/25/netnewswire-b-for.html",
+				"title": "NetNewsWire 6.0b5 for Mac",
+				"content_html": "<p>This is a final candidate build — yes, a second one. We’re hoping not to make any more code changes before shipping NetNewsWire 6.0 for Mac.</p>\n\n<p>If you’re already running a 6.0 test build, you can check for updates (be sure your prefs are set for test builds). Or you can <a href=\"https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-6.0beta5/NetNewsWire6.0b5.zip\">download the latest build</a>.</p>\n\n<p>Changes since 6.0b4:</p>\n\n<ul>\n<li>Fixed a bug where sometimes the app wouldn’t automatically refresh after the Mac wakes from sleep</li>\n<li>Updated the Help book link to the 6.0 Mac help book website</li>\n<li>App now displays a helpful error message if you don’t have iCloud Drive enabled and were able to successfully add an iCloud Account</li>\n</ul>\n",
+				"date_published": "2021-03-25T18:38:15-07:00",
+				"url": "https://nnw.ranchero.com/2021/03/25/netnewswire-b-for.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/03/23/netnewswire-b-for.html",
+				"title": "NetNewsWire 6.0b4 for Mac",
+				"content_html": "<p>This is a final candidate build. We’re hoping not to make any more code changes before shipping NetNewsWire 6.0 for Mac.</p>\n\n<p>After we ship the Mac version, we will be working on iOS, and we’ll start TestFlight builds as soon as we can.</p>\n\n<p>If you’re already running a 6.0 test build, you can check for updates (be sure your prefs are set for test builds). Or you can <a href=\"https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-6.0beta4/NetNewsWire6.0b4.zip\">download the latest build</a>.</p>\n\n<p>Changes since 6.0b3:</p>\n\n<ul>\n<li>Feedly: Deleting a feed successfully no longer shows an alert and leaves the feed in the sidebar</li>\n<li>iCloud sync: fixed a bug where, in some circumstances, dragging a feed from elsewhere in the sidebar to the iCloud account could trigger the feed-finder</li>\n<li>NetNewsWire will now refresh on launch if you have the Debug menu enabled</li>\n<li>Article view: footnotes should now work with articles from a Feedly account</li>\n</ul>\n",
+				"date_published": "2021-03-23T19:43:44-07:00",
+				"url": "https://nnw.ranchero.com/2021/03/23/netnewswire-b-for.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/03/16/netnewswire-b-for.html",
+				"title": "NetNewsWire 6.0b3 for Mac",
+				"content_html": "<p>If you’re already running a 6.0 test build, you can check for updates (be sure your prefs are set for test builds). Or you can <a href=\"https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-6.0beta3/NetNewsWire6.0b3.zip\">download the latest build</a>.</p>\n\n<p>Changes since 6.0b2:</p>\n\n<ul>\n<li>Article view: fixed bug where URL status field might not disappear when switching articles</li>\n<li>iCloud sync: dragging feeds from elsewhere in the sidebar to the iCloud account won’t trigger the feed-finding process since this is a better experience for migrating</li>\n<li>Syncing: fixed a bug authenticating with some sync services when the user has some special characters in their password</li>\n<li>Preferences: removed checkbox for showing unread count in the Dock — control this instead via System Preferences &gt; Notifications &gt; NetNewsWire &gt; Badge app icon</li>\n</ul>\n",
+				"date_published": "2021-03-16T22:50:55-07:00",
+				"url": "https://nnw.ranchero.com/2021/03/16/netnewswire-b-for.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/03/13/twitter-search-feeds.html",
+				"title": "Twitter Search Feeds",
+				"content_html": "<p>On his blog, Brent writes about the new-in-NetNewsWire-6 feature <a href=\"https://inessential.com/2021/03/13/netnewswire_6_twitter_search\">Twitter search feeds</a>.</p>\n",
+				"date_published": "2021-03-13T22:31:09-07:00",
+				"url": "https://nnw.ranchero.com/2021/03/13/twitter-search-feeds.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/03/13/netnewswire-b-for.html",
+				"title": "NetNewsWire 6.0b2 for Mac",
+				"content_html": "<p>If you’re already running a 6.0 test build, you can check for updates (be sure your prefs are set for test builds). Or you can <a href=\"https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-6.0beta2/NetNewsWire6.0b2.zip\">download the latest build</a>.</p>\n\n<p>Changes since 6.0b1:</p>\n\n<ul>\n<li>Feeds list: when dragging feeds/folders from one account to another, the operation is now always copy, to avoid data loss due to misunderstanding that moving a feed between accounts does not move its read/starred statuses</li>\n<li>iCloud sync: refined logic to improve performance of large uploads</li>\n<li>Fixed a crashing bug that could happen when deleting an iCloud-synced folder</li>\n<li>Fixed a crashing bug, triggered by bad server data, that could happen when validating credentials with syncing systems that use the Reader API</li>\n</ul>\n",
+				"date_published": "2021-03-13T14:27:15-07:00",
+				"url": "https://nnw.ranchero.com/2021/03/13/netnewswire-b-for.html"
+			},
+			{
+				"id": "http://NetNewsWire.micro.blog/2021/03/07/netnewswire-b-for.html",
+				"title": "NetNewsWire 6.0b1 for Mac",
+				"content_html": "<p>This is the first beta release of NetNewsWire 6! We believe the app is freakishly stable, and we’ve fixed a bunch of bugs since the earliest test builds.</p>\n\n<p>It’s still a test build, though, and you should use your best judgment as to whether or not to run it.</p>\n\n<p>If you’re already running a 6.0 test build, you can check for updates (be sure your prefs are set for test builds). Or you can <a href=\"https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-6.0beta1/NetNewsWire6.0b1.zip\">download the latest build</a>.</p>\n\n<p>Important note: we don’t have test builds for NetNewsWire 6 for iOS yet. We’ll probably ship NetNewsWire for Mac first, and then start testing on iOS. (We realize this isn’t ideal, but it’s easier to manage. The quality of the apps is more important than the timing.)</p>\n\n<p>Changes since 6.0a6:</p>\n\n<ul>\n<li>Article view: fixed several layout edge cases, including with fullscreen</li>\n<li>Timeline: fixed a bug scrolling up via arrow key where a row might not be fully visible when it should be</li>\n</ul>\n",
+				"date_published": "2021-03-07T13:34:12-07:00",
+				"url": "https://nnw.ranchero.com/2021/03/07/netnewswire-b-for.html"
+			}
+	]
+}
