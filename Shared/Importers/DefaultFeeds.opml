@@ -4,6 +4,6 @@
     <title>Default Feeds</title>
   </head>
   <body>
-    <outline text="NetNewsWire Blog" title="NetNewsWire Blog" type="rss" version="RSS" htmlUrl="https://github.com/Artem-applitools/NetNewsWire/tree/forked" xmlUrl="https://raw.githubusercontent.com/Artem-applitools/NetNewsWire/forked/feed.json"/>
+    <outline text="NetNewsWire Blog" title="NetNewsWire Blog" type="rss" version="RSS" htmlUrl="https://github.com/Artem-applitools/NetNewsWire/tree/forked" xmlUrl="https://raw.githubusercontent.com/Artem-applitools/NetNewsWire/forked/Static_Data/17_07_2022/NetNewsWire.json"/>
   </body>
 </opml>

@@ -1,0 +1,198 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Manton Reece",
+	"icon": "https://micro.blog/manton/avatar.jpg",
+	"home_page_url": "https://www.manton.org/",
+	"feed_url": "https://www.manton.org/feed.json",
+	"items": [
+			{
+				"id": "http://manton.micro.blog/2022/07/16/running-out-of.html",
+				
+				"content_html": "<p>Running out of room on my laptop for big stickers, so I cut this Gowalla sticker to fit on the corner.</p>\n<img src=\"https://www.manton.org/uploads/2022/258d3736ff.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-16T12:15:33-05:00",
+				"url": "https://www.manton.org/2022/07/16/running-out-of.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/15/daniel-and-i.html",
+				
+				"content_html": "<p><a href=\"https://coreint.org/2022/07/episode-521-some-dumb-mistake/\">Daniel and I are back this week</a> talking about Twitter, Elon Musk, how the deal is so disruptive, and the rocky history of leadership at Twitter.</p>\n",
+				"date_published": "2022-07-15T15:55:21-05:00",
+				"url": "https://www.manton.org/2022/07/15/daniel-and-i.html",
+				"tags": ["Podcasts"]
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/15/had-fun-brainstorming.html",
+				
+				"content_html": "<p>Had fun brainstorming a new project with <a href=\"https://micro.blog/cheesemaker\">@cheesemaker</a> this week. We have a domain name and other notes. Not ready to announce yet but it will be something that Micro.blog can build on.</p>\n",
+				"date_published": "2022-07-15T15:15:50-05:00",
+				"url": "https://www.manton.org/2022/07/15/had-fun-brainstorming.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/13/i-got-the.html",
+				
+				"content_html": "<p>I got the new print of my 30 Days book with updated layout. I could still tweak it but I’m calling it done. This will be the size and format of Indie Microblogging too.</p>\n<p><video controls=\"controls\" playsinline=\"playsinline\" src=\"https://www.manton.org/uploads/2022/4011187306.mov\" width=\"640\" height=\"640\" poster=\"https://www.manton.org/uploads/2022/5bbb4385e3.png\" preload=\"none\"></video></p>\n",
+				"date_published": "2022-07-13T12:50:08-05:00",
+				"url": "https://www.manton.org/2022/07/13/i-got-the.html",
+				"tags": ["Videos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/12/havent-been-paying.html",
+				
+				"content_html": "<p>Haven’t been paying close attention to Medium lately. Curious if we’ll see any changes <a href=\"https://werd.io/2022/a-new-ceo-for-medium\">from their new CEO</a>. I’ve enabled cross-posting to send my blog posts over there for a while again.</p>\n",
+				"date_published": "2022-07-12T14:15:58-05:00",
+				"url": "https://www.manton.org/2022/07/12/havent-been-paying.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/12/first-time-back.html",
+				
+				"content_html": "<p>First time back to Red Horn in a year. ☕️</p>\n<img src=\"https://www.manton.org/uploads/2022/cfb54420fd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-12T11:44:36-05:00",
+				"url": "https://www.manton.org/2022/07/12/first-time-back.html",
+				"tags": ["Photos","Coffee"]
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/12/old-ranch-right.html",
+				
+				"content_html": "<p>Old ranch right next to a brand new office building. This guy’s probably wondering why his space is being encroached on.</p>\n<img src=\"https://www.manton.org/uploads/2022/807ec6da85.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-12T10:36:00-05:00",
+				"url": "https://www.manton.org/2022/07/12/old-ranch-right.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/11/having-that-moment.html",
+				
+				"content_html": "<p>Having that moment when seeing a doctor for non-COVID symptoms but the waiting room is so crowded with people coughing that seems possible to leave with a worse diagnosis than I entered with. 😷</p>\n",
+				"date_published": "2022-07-11T16:59:39-05:00",
+				"url": "https://www.manton.org/2022/07/11/having-that-moment.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/11/this-week-on.html",
+				
+				"content_html": "<p><a href=\"https://monday.micro.blog/2022/07/11/manton-manton-on.html\">This week</a> on Micro Monday&hellip; It&rsquo;s me again! <a href=\"https://micro.blog/jean\">@jean</a> and I review some of the recent features and plug-ins for Micro.blog that I&rsquo;ve been working on. Location, themes, fonts, blog publishing, robots.txt, and a book update.</p>\n",
+				"date_published": "2022-07-11T11:03:41-05:00",
+				"url": "https://www.manton.org/2022/07/11/this-week-on.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/09/wind-turbine-blades.html",
+				
+				"content_html": "<p>Wind turbine blades going up I-35.</p>\n<img src=\"https://www.manton.org/uploads/2022/826e4348ba.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-09T18:31:09-05:00",
+				"url": "https://www.manton.org/2022/07/09/wind-turbine-blades.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/08/george-r-r.html",
+				
+				"content_html": "<p><a href=\"https://georgerrmartin.com/notablog/2022/07/08/a-winter-garden/\">George R. R. Martin blogs about</a> Winds of Winter:</p>\n<blockquote>\n<p>What I have noticed more and more of late, however, is my gardening is taking me further and further away from the television series.</p>\n</blockquote>\n<p>I liked the HBO version, but I&rsquo;m also glad he&rsquo;s not afraid to deviate from it in major ways.</p>\n",
+				"date_published": "2022-07-08T20:49:31-05:00",
+				"url": "https://www.manton.org/2022/07/08/george-r-r.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/08/reading-about-how.html",
+				
+				"content_html": "<p>Reading about how few guns Japan has and even fewer deaths. Obviously a different country and culture, but should be an inspiration for the United States to do much more than we&rsquo;re doing. Our priorities have gotten so messed up.</p>\n",
+				"date_published": "2022-07-08T15:17:40-05:00",
+				"url": "https://www.manton.org/2022/07/08/reading-about-how.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/08/a-cute-little.html",
+				
+				"content_html": "<p>A cute Little Free Library at the Blue Bell factory in Brenham from a couple weeks ago.</p>\n<img src=\"https://www.manton.org/uploads/2022/ac339e65e6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-08T09:45:50-05:00",
+				"url": "https://www.manton.org/2022/07/08/a-cute-little.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/07/what-would-panic.html",
+				
+				"content_html": "<p><em>What would Panic do?</em> On <a href=\"https://coreint.org/2022/07/episode-520-do-weird-things/\">the latest episode of Core Intuition</a>, <a href=\"https://micro.blog/danielpunkass\">@danielpunkass</a> and I talk about the Playdate.</p>\n",
+				"date_published": "2022-07-07T22:13:40-05:00",
+				"url": "https://www.manton.org/2022/07/07/what-would-panic.html",
+				"tags": ["Podcasts"]
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/06/experimenting-with-openstreetmap.html",
+				
+				"content_html": "<p>Experimenting with OpenStreetMap. Added a new place that was missing. Thinking about how we could use this for potential location check-in support.</p>\n",
+				"date_published": "2022-07-06T16:15:32-05:00",
+				"url": "https://www.manton.org/2022/07/06/experimenting-with-openstreetmap.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/06/i-tweaked-the.html",
+				
+				"content_html": "<p>I tweaked the margins and layout of my book <a href=\"https://www.manton.org/30-days/\">30 Days</a>, submitting another print order. If it looks good when it arrives, next step is to get the final draft of Indie Microblogging ready for printing.</p>\n",
+				"date_published": "2022-07-06T10:21:29-05:00",
+				"url": "https://www.manton.org/2022/07/06/i-tweaked-the.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/06/first-time-at.html",
+				
+				"content_html": "<p>First time at Cosmic Coffee, in south Austin after selling a car at Carvana. Great outdoor space. ☕️</p>\n<img src=\"https://www.manton.org/uploads/2022/921bfa9a7d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-06T09:25:30-05:00",
+				"url": "https://www.manton.org/2022/07/06/first-time-at.html",
+				"tags": ["Photos","Coffee"]
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/05/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062910721\">The Cartographers</a> by Peng Shepherd 📚</p>\n",
+				"date_published": "2022-07-05T23:55:03-05:00",
+				"url": "https://www.manton.org/2022/07/05/finished-reading-the.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/05/this-weeks-micro.html",
+				
+				"content_html": "<p><a href=\"https://monday.micro.blog/2022/07/04/clifford-cliffordbeshers-mountain.html\">This week&rsquo;s Micro Monday</a> features <a href=\"https://micro.blog/cliffordbeshers\">@cliffordbeshers</a>! He talks with <a href=\"https://micro.blog/jean\">@jean</a> about posting photos to Micro.blog and more.</p>\n",
+				"date_published": "2022-07-05T08:25:33-05:00",
+				"url": "https://www.manton.org/2022/07/05/this-weeks-micro.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/05/importing-checkins-from.html",
+				"title": "Importing check-ins from Ohai",
+				"content_html": "<p>I’ve used a few apps over the years for location check-ins. Gowalla, Foursquare, and Ohai, which was built on the App.net API. The Gowalla data was lost after they were acquired by Facebook. I’ve continued to use Foursquare and have imported many of those check-ins to my location site <a href=\"https://manton.coffee\">manton.coffee</a>.</p>\n<p>I have about a year of data from Ohai, from around 2013-2014. Before App.net shut down, I exported the data. I wanted to dust it off and import it into Micro.blog.</p>\n<p>The data is stored in the App.net “messages” JSON. In some cases, there is annotation data that includes the location information such as place name for the check-in and latitude/longitude.</p>\n<p>Here’s an example of one of the check-ins, cleaned up slightly to remove fields I don’t care about:</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"><code class=\"language-json\" data-lang=\"json\">{\n  <span style=\"color:#f92672\">&#34;annotations&#34;</span>: [\n    {\n      <span style=\"color:#f92672\">&#34;type&#34;</span>: <span style=\"color:#e6db74\">&#34;net.app.ohai.location&#34;</span>,\n      <span style=\"color:#f92672\">&#34;value&#34;</span>: {\n        <span style=\"color:#f92672\">&#34;address&#34;</span>: <span style=\"color:#e6db74\">&#34;11521 N Fm 620&#34;</span>,\n        <span style=\"color:#f92672\">&#34;country_code&#34;</span>: <span style=\"color:#e6db74\">&#34;us&#34;</span>,\n        <span style=\"color:#f92672\">&#34;latitude&#34;</span>: <span style=\"color:#ae81ff\">30.45419</span>,\n        <span style=\"color:#f92672\">&#34;locality&#34;</span>: <span style=\"color:#e6db74\">&#34;Austin&#34;</span>,\n        <span style=\"color:#f92672\">&#34;longitude&#34;</span>: <span style=\"color:#ae81ff\">-97.8271</span>,\n        <span style=\"color:#f92672\">&#34;name&#34;</span>: <span style=\"color:#e6db74\">&#34;Starbucks&#34;</span>,\n        <span style=\"color:#f92672\">&#34;postcode&#34;</span>: <span style=\"color:#e6db74\">&#34;78726&#34;</span>,\n        <span style=\"color:#f92672\">&#34;region&#34;</span>: <span style=\"color:#e6db74\">&#34;TX&#34;</span>\n      }\n    }\n  ],\n  <span style=\"color:#f92672\">&#34;created_at&#34;</span>: <span style=\"color:#e6db74\">&#34;2013-11-11T14:44:25Z&#34;</span>,\n  <span style=\"color:#f92672\">&#34;id&#34;</span>: <span style=\"color:#e6db74\">&#34;1922259&#34;</span>,\n  <span style=\"color:#f92672\">&#34;source&#34;</span>: {\n    <span style=\"color:#f92672\">&#34;client_id&#34;</span>: <span style=\"color:#e6db74\">&#34;nymmngm43jnYP2FQ4pCvXjBpT3YyfNDa&#34;</span>,\n    <span style=\"color:#f92672\">&#34;link&#34;</span>: <span style=\"color:#e6db74\">&#34;http://ohaiapp.net/&#34;</span>,\n    <span style=\"color:#f92672\">&#34;name&#34;</span>: <span style=\"color:#e6db74\">&#34;Ohai&#34;</span>\n  },\n  <span style=\"color:#f92672\">&#34;text&#34;</span>: <span style=\"color:#e6db74\">&#34;Working after tacos. Hoping to get some coding done with an early start to the week.&#34;</span>\n}\n</code></pre></div><p>I had originally used Ohai as a sort of private check-in journal, not intending it to be public in the way that Foursquare check-ins often are. But I’ve found that after nearly 10 years, semi-private data like this can usually be public without the same kind of privacy considerations that I would have worried about at the time it was first written.</p>\n<p>So how do we get this data into Micro.blog? Micro.blog can import from a bunch of platforms, but it doesn’t make sense to add support for this file format directly to Micro.blog. It’s not something that most people would need. I wrote a custom script to handle this for my check-ins blog.</p>\n<p>In the script, we’ll iterate over each message and look for the ones posted from Ohai, ignoring everything else. For some reason — maybe because I was offline or because of limitations in the App.net places database — not all of my messages included location information, but I still want to record the post and date because it included text I wrote about the check-in. If there is location information, we’ll pass that to Micro.blog too.</p>\n<p><a href=\"https://gist.github.com/manton/50293c39b6f9c96e5e0ed19ebbff93bf\">Here’s the script</a>. If you want to customize it for your own use, make sure to set the app token and blog URL.</p>\n<p>Micro.blog uses the Micropub API for creating posts. When there’s location information, we’ll pass a <code>checkin</code> field to store that with Micro.blog. We can then access that data from a Micro.blog theme, for example to show a map. See <a href=\"https://book.micro.blog/micropub/\">my book chapter on Micropub</a> for details on the JSON format.</p>\n<p>I had a lot of fun going through this old data and migrating it to Micro.blog so that it can be preserved. Eventually I want to have a Micro.blog-based client solution for new check-ins, starting with Sunlit for iOS, so that I don’t need to keep depending on Foursquare.</p>\n",
+				"date_published": "2022-07-05T07:53:04-05:00",
+				"url": "https://www.manton.org/2022/07/05/importing-checkins-from.html",
+				"tags": ["Essays"]
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/03/helping-cheesemaker-test.html",
+				
+				"content_html": "<p>Helping <a href=\"https://micro.blog/cheesemaker\">@cheesemaker</a> test <a href=\"https://jonhays.me/2022/07/01/sneak-preview-of.html\">early game builds</a> on Playdate. First crash. So fun to see games come to life on this little device.</p>\n<img src=\"https://www.manton.org/uploads/2022/82fc482ec5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-03T10:34:49-05:00",
+				"url": "https://www.manton.org/2022/07/03/helping-cheesemaker-test.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/02/quiet-morning-at.html",
+				
+				"content_html": "<p>Quiet morning at the start of the July 4th weekend. Took some of the downtime to wrap up an update to Micro.blog for macOS, with improved Day One export (thanks <a href=\"https://micro.blog/otaviocc\">@otaviocc</a>!) and a minor bug fix.</p>\n",
+				"date_published": "2022-07-02T10:59:52-05:00",
+				"url": "https://www.manton.org/2022/07/02/quiet-morning-at.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/02/i-wonder-if.html",
+				
+				"content_html": "<p>I wonder if the way Apple forces developers to agree to updated terms of service is actually legal. Agree to terms, ship app. Then later, we can&rsquo;t even update our existing apps outside of the App Store (using Gatekeeper) until agreeing to the latest terms. Apps held hostage.</p>\n",
+				"date_published": "2022-07-02T10:41:18-05:00",
+				"url": "https://www.manton.org/2022/07/02/i-wonder-if.html"
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/02/did-not-finish.html",
+				
+				"content_html": "<p>Did not finish: <a href=\"https://micro.blog/books/9780345484260\">Dragonflight</a> by Anne McCaffrey. I&rsquo;ve been reading some older fantasy books that I had missed. I&rsquo;m 3/4 of the way through this and keep hoping it starts to work for me, but now giving up. 📚</p>\n",
+				"date_published": "2022-07-02T10:06:23-05:00",
+				"url": "https://www.manton.org/2022/07/02/did-not-finish.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://manton.micro.blog/2022/07/01/finished-reading-under.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781101187005\">Under Heaven</a> by Guy Gavriel Kay. It had been years since I read any books by Kay. I had almost forgotten how beautiful his writing is. 📚</p>\n",
+				"date_published": "2022-07-01T17:59:55-05:00",
+				"url": "https://www.manton.org/2022/07/01/finished-reading-under.html",
+				"tags": ["Books"]
+			}
+	]
+}
